@@ -1,0 +1,73 @@
+.one{
+	border: 2px solid indianred;
+}
+.btn{
+	position: relative;
+	top: 5px;
+	left: 4px;
+	color: whitesmoke;
+	background: blueviolet;
+	padding: 5px;
+	height: 28px;
+}
+.input{
+	height:38px;
+	width: 200px;
+	top: 5px;
+	left: 10px;
+	position: relative;
+	padding: 5px;
+	margin-right: -8px;
+	border-radius: 6px;
+}
+span{
+	position: relative;
+}
+.one ul{
+	margin: 0px;
+	padding:0px;
+}
+.one li{
+	display:inline-block;
+	background:skyblue;
+}.one a{
+	display: inline-block;
+	font-family: monospace;
+	font-size: 22px;
+	text-decoration: none;
+	color:indianred;
+	border-radius: 6px;
+	border-right: 2.5px solid black;
+	margin-left: 2px;
+	padding: 4px;
+	margin-bottom: 4px;
+}
+.two{
+	background-image: url('book2.jpg');
+	height: 540px;
+	background-attachment:fixed;
+	background-size:cover;
+}
+h1{
+	text-align:center;
+	font-family:Seouge;
+	color: deeppink;
+}
+.write{
+	color: deeppink;
+	text-align: left;
+}
+h2{
+	font-family: cursive;
+	color: red;
+}
+.about{
+	color: darkblue;
+	font-family: inherit;
+	margin-left: 300px;
+}
+.pic{
+	height: 200px;
+	width: 250px;
+	box-shadow: 2px 1px 4px 1px red;
+}
